@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.konusyazdir.MainActivity" >
+
+    <ImageButton
+        android:id="@+id/btnKonus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="95dp"
+        android:src="@drawable/mic" />
+
+    <Button
+        android:id="@+id/send_mail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnKonus"
+        android:layout_alignLeft="@+id/send_sms"
+        android:layout_marginBottom="44dp"
+        android:text="Mail Gönder" />
+
+    <TextView
+        android:id="@+id/txtYazi "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/send_sms"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:hint="Mesajınız" />
+
+    <Button
+        android:id="@+id/send_sms"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/send_mail"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="18dp"
+        android:text="SMS Gönder" />
+
+</RelativeLayout><!-- From: file:/C:/Users/CHOPPER-PC/AndroidstudioProjects/konusyazdir/app/src/main/res/layout/activity_main.xml -->

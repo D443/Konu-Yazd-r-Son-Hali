@@ -1,0 +1,5 @@
+C:\Users\CHOPPER-PC\AndroidstudioProjects\konusyazdir\app\build\intermediates\classes\release
+C:\Users\CHOPPER-PC\AndroidstudioProjects\konusyazdir\app\build\intermediates\pre-dexed\release\support-annotations-20.0.0-bb2291978a86eeec05691dd46b18da1a229ccda8.jar
+C:\Users\CHOPPER-PC\AndroidstudioProjects\konusyazdir\app\build\intermediates\pre-dexed\release\internal_impl-20.0.0-d757519f0a14b017589083e6d162585df4696c47.jar
+C:\Users\CHOPPER-PC\AndroidstudioProjects\konusyazdir\app\build\intermediates\pre-dexed\release\classes-253594b55bffdca56ccbf2ecdb2b0fce450c12da.jar
+C:\Users\CHOPPER-PC\AndroidstudioProjects\konusyazdir\app\build\intermediates\pre-dexed\release\classes-cddb77a82e3e808aa0f9b9a93eddb3faa82acfe4.jar
